@@ -9,7 +9,7 @@ My name’s Shep Trundle and I’m a 4th-year student at the University of Virgi
    - Course registration and review application in Java using FXML and SQLite, allowing users to log in, search for courses, and manage course reviews.
 
 - [Chess](https://github.com/sheptrundle/chess)
-   - A fully complete chess game supporting two players on the same machine. Includes both players perspectives, move/square highlighting, check logic, mate logic, and other features that a digital chessboard may have.
+   - A fully complete chess game supporting two players on the same machine. Includes both players perspectives, move/square highlighting, check logic, mate logic, personally-drawn pieces, and other features that a digital chessboard may have.
 
 - [Bus Routes](https://github.com/sheptrundle/bus-routes)
    - A bus routing system in Java and SQLite that processes JSON configuration and bus stop data to recommend bus lines and identify nearby stops.
