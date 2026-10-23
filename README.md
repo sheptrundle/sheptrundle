@@ -2,6 +2,9 @@
 
 My name’s Shep Trundle and I’m a 4th-year student at the University of Virginia studying Computer Science with a professional background in Software Engineering and Data Science. To see some projects I've worked on, please take a look at any of the following repositories.
 
+- [River Rat](https://github.com/sheptrundle/RiverRat)
+   - River Rat forecasts whether whitewater rivers will be runnable up to 6 days out. It learns how each river has responded to rain over 24 years of USGS gauge and NOAA radar data, then applies NOAA's rain forecast, with a what-if slider for any storm. 
+
 - [Threshold Hash-Based Signatures and Multi-Party Key Sharing](https://github.com/sheptrundle/Threshold-Hash-Based-Signatures-and-Multi-Party-Key-Sharing-)
    - A cryptography project I worked on at the University of New South Wales which implements a hash-based signature scheme that extends the traditional Lamport one-time signatures into a flexible, distributed and stateful system
 
